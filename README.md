@@ -3,7 +3,7 @@ a collection of yara rules of detection and incident response
 
 ## Linkz
 What is YARA:
-https://YARA.github.io/yara/
+https://virustotal.github.io/yara/
 
 Video on YARA:
 https://www.youtube.com/watch?v=YFVZ-tjjWos
