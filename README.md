@@ -1,5 +1,5 @@
 # YARA
-a collection of yara rules of detection and incident response
+a collection of yara rules for detection and incident response
 
 ## Linkz
 What is YARA:
