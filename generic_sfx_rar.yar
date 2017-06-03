@@ -1,5 +1,5 @@
-# From https://www.youtube.com/watch?v=YFVZ-tjjWos 
-# Self Installing / Dropper Auto Extracting RAR
+// From https://www.youtube.com/watch?v=YFVZ-tjjWos 
+// self Installing / Dropper Auto Extracting RAR
 rule GENERIC_SFXRAR_Installer {
 	strings:
 		$str1 = "RarSFX" ascii wide
