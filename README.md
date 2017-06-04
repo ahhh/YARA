@@ -1,6 +1,5 @@
 # YARA
-a collection of yara rules for detection and incident response
-
+a collection of yara rules for rapid binary triage and identifying features of binaries for deeper analysis
 ## Linkz
 What is YARA:
 https://virustotal.github.io/yara/
