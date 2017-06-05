@@ -11,6 +11,7 @@ Custom YARA scanning script:
 https://github.com/ahhh/PSSE/blob/master/Scan-with-Yara.ps1
 
 More info on my Yara repo:
+http://lockboxx.blogspot.com/2017/06/yara-rules-for-binary-analysis.html
 
 Download YARA: 
 https://github.com/VirusTotal/yara/releases
